@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleRunner
+namespace GoogleHashCode
 {
     public class Solver
     {

@@ -1,4 +1,4 @@
-﻿using ConsoleRunner;
+﻿using GoogleHashCode;
 
 if (args.Length == 0)
 {
