@@ -2,7 +2,7 @@
 
 if (args.Length == 0)
 {
-    const string inputFileName = "a_example.txt";
+    const string inputFileName = "f.txt";
     args = new[] { inputFileName };
 }
 
